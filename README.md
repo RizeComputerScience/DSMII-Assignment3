@@ -16,7 +16,7 @@ Assignment-3/
 └── data/                        # Data directory (CSV files not included in repo. Download from Kaggle)
     ├── train.csv               # Historical sales training data
     ├── holidays_events.csv     # Holiday and events information
-    └── stores.csv                # Store metadata
+    └── store.csv                # Store metadata
 ```
 
 ## Getting Started
@@ -41,7 +41,7 @@ Assignment-3/
    - Scroll down and select **Download All**
    - Extract the zip file and move the following files to the `data/` directory:
      - `train.csv`
-     - `test.csv`
+     - `store.csv`
      - `holidays_events.csv`
 
 3. **Install required libraries:**
