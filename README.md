@@ -15,8 +15,8 @@ Assignment-3/
 ├── starter_notebook.ipynb       # Main analysis notebook with step-by-step instructions
 └── data/                        # Data directory (CSV files not included in repo. Download from Kaggle)
     ├── train.csv               # Historical sales training data
-    ├── test.csv                # Test data for predictions
-    └── holidays_events.csv     # Holiday and events information
+    ├── holidays_events.csv     # Holiday and events information
+    └── stores.csv                # Store metadata
 ```
 
 ## Getting Started
